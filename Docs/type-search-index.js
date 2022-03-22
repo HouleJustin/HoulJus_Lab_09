@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"University","l":"Course"},{"p":"Tripleton","l":"Main"},{"p":"University","l":"Prof"},{"p":"University","l":"Secretary"},{"p":"University","l":"Student"},{"p":"Tripleton","l":"Tripleton"},{"p":"University","l":"University"}];updateSearchResults();
